@@ -1,21 +1,21 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Wed Feb 15 2023 11:08:32 GMT+1000 (Australian Eastern Standard Time)|
-|**App Generator**<br>@sap/generator-fiori-elements|
-|**App Generator Version**<br>1.8.6|
+|**Generation Date and Time**<br>Tue Oct 19 2021 11:10:43 GMT+0300 (Eastern European Summer Time)|
+|**App Generator**<br>@sap/generator-fiori|
+|**App Generator Version**<br>1.3.6|
 |**Generation Platform**<br>Visual Studio Code|
-|**Template Used**<br>List Report Page V4|
+|**Floorplan Used**<br>List Report Object Page V4|
 |**Service Type**<br>Local Cap|
-|**Service URL**<br>http://localhost:4004/service/risk/
+|**Service URL**<br>/service/risk/
 |**Module Name**<br>risks|
 |**Application Title**<br>Risks|
 |**Namespace**<br>ns|
-|**UI5 Theme**<br>sap_horizon|
-|**UI5 Version**<br>1.110.1|
+|**UI5 Theme**<br>sap_fiori_3|
+|**UI5 Version**<br>Latest|
 |**Enable Code Assist Libraries**<br>False|
-|**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
+|**Enable Telemetry**<br>True|
 |**Main Entity**<br>Risks|
 
 ## risks
